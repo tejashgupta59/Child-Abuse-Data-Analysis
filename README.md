@@ -53,6 +53,8 @@ Create a measure table as per the given dataset
 
 Power Bi, Google Sheet
 
-### 📈Dashboard
+## 📈Dashboard
 
-![Img]()
+
+![Img](https://github.com/tejashgupta59/Child-Abuse-Data-Analysis/blob/main/DashBoard/Screenshot%20.png)
+![Img](https://github.com/tejashgupta59/Child-Abuse-Data-Analysis/blob/main/DashBoard/Screenshot%20.png)
