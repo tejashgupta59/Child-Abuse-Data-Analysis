@@ -57,4 +57,5 @@ Power Bi, Google Sheet
 
 
 ![Img](https://github.com/tejashgupta59/Child-Abuse-Data-Analysis/blob/main/DashBoard/Screenshot%20.png)
-![Img](https://github.com/tejashgupta59/Child-Abuse-Data-Analysis/blob/main/DashBoard/Screenshot%20.png)
+
+![Img](https://github.com/tejashgupta59/Child-Abuse-Data-Analysis/blob/main/DashBoard/Screenshot%202.png)
