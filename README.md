@@ -52,3 +52,7 @@ Create a measure table as per the given dataset
 ### 🔧 Tool Used:
 
 Power Bi, Google Sheet
+
+### 📈Dashboard
+
+![Img]()
