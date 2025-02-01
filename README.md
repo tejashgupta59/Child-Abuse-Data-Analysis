@@ -59,3 +59,46 @@ Power Bi, Google Sheet
 ![Img](https://github.com/tejashgupta59/Child-Abuse-Data-Analysis/blob/main/DashBoard/Screenshot%20.png)
 
 ![Img](https://github.com/tejashgupta59/Child-Abuse-Data-Analysis/blob/main/DashBoard/Screenshot%202.png)
+
+
+## 📌Dashboard Highlights for Child Welfare Analysis
+🔹 Comprehensive Data Analysis:
+
+Provides deep insights into child abuse cases across different states.
+Focuses on critical childcare factors to enhance decision-making in child protection.
+🔹 Key Visualizations & Insights:
+
+### 📊 Column Chart  
+Displays top 5 states with the highest number of childcare providers.
+
+### 🍩 Doughnut Chart  
+Highlights top states with highest child legal guidance cases.
+
+### 🔻 Funnel Chart  
+Identifies top 5 states with the highest perpetrators.
+
+### 📈 Column Chart  
+Showcases top 6 states with the highest number of parents.
+
+## KPIs for Quick Decision-Making:
+
+Total Parents 👨‍👩‍👦
+
+Total States Analyzed 🌎
+
+Top Perpetrators Count 🚨
+
+Total Unmarried Parents 👩‍👦
+
+Total Foster Parents 🏠
+
+Total Child Day Care Providers 👶
+
+Total Multiple Relationship Cases 🔄
+
+### 🚀 Outcome: 
+
+A powerful dashboard that helps authorities analyze child abuse trends, childcare factors, and take proactive steps for child protection.
+
+
+
